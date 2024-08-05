@@ -29,4 +29,4 @@ The script requires the following Python libraries:
 
 
 
-The commentary and cleanup of the code is supported by jetbrain ai assiatent.
+Commentary and cleanup was supperted by jetbrain assistent.
